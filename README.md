@@ -15,12 +15,13 @@ My journey in communications engineering  has led me to develop a passion for cy
 
 ## Skills
 
-| Skill                                         | Associated Project         
-| SIEM Implementation and Log Analysis          | <a href="https://app.letsdefend.io/my-rewards/detail/61e9137ca56347719da1aafc9a6e8b8c">SOC fundamentals Lab</a>|
-| Network Traffic Monitoring and Attack Detection |<a href="https://app.letsdefend.io/my-rewards/detail/763fef68fbb744c49f5d39ee011f4fbb">splunk engineer lab</a>|
-| Incident Response Planning and Execution      |<a href="https://academy.hackthebox.com/achievement/1998990/148">Detection Lab</a |
-| Knowledge of network switches, routers, and firewalls |<a href="https://www.credly.com/badges/544d0d77-8692-4ca3-8129-737fcd4d1601/linked_in_profile"> Introduction to networking- cisco |
-| Close familiarity with information-security protocols / cyber-security concepts |<a href="https://drive.google.com/file/d/1XF-Ry0-bOCTjeptezv_v5GN2RwJXQ2Be/view?usp=sharing"> CCNAv7: Switching, Routing, and Wireless Essentials|
+| Skill |                                            | Associated Project/ certification |       
+- Network Traffic Monitoring and Attack Detection |<a href="https://app.letsdefend.io/my-rewards/detail/763fef68fbb744c49f5d39ee011f4fbb">splunk engineer lab</a>|
+- Incident Response Planning and Execution      |<a href="https://academy.hackthebox.com/achievement/1998990/148">Detection Lab</a |
+- | SIEM Implementation and Log Analysis          | <a href="https://app.letsdefend.io/my-rewards/detail/61e9137ca56347719da1aafc9a6e8b8c">SOC fundamentals Lab</a>|
+- | Knowledge of network switches, routers, and firewalls |<a href="https://www.credly.com/badges/544d0d77-8692-4ca3-8129-737fcd4d1601/linked_in_profile"> Introduction to networking- cisco |
+-  Close familiarity with information-security protocols / cyber-security concepts |<a href="https://drive.google.com/file/d/1XF-Ry0-bOCTjeptezv_v5GN2RwJXQ2Be/view?usp=sharing"> CCNAv7: Switching, Routing, and Wireless Essentials|
+
 
 ## Tools
 
