@@ -15,8 +15,7 @@ My journey in communications engineering  has led me to develop a passion for cy
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
+| Skill                                         | Associated Project         
 | SIEM Implementation and Log Analysis          | <a href="https://app.letsdefend.io/my-rewards/detail/61e9137ca56347719da1aafc9a6e8b8c">SOC fundamentals Lab</a>|
 | Network Traffic Monitoring and Attack Detection |<a href="https://app.letsdefend.io/my-rewards/detail/763fef68fbb744c49f5d39ee011f4fbb">splunk engineer lab</a>|
 | Incident Response Planning and Execution      |<a href="https://academy.hackthebox.com/achievement/1998990/148">Detection Lab</a |
